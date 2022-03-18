@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Apache Tomcat
+Specification-Version: 8.5
+Specification-Vendor: Apache Software Foundation
+Implementation-Title: Apache Tomcat
+Implementation-Version: 8.5.77
+Implementation-Vendor: Apache Software Foundation
+X-Compile-Source-JDK: 7
+X-Compile-Target-JDK: 7
